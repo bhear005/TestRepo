@@ -1,8 +1,5 @@
 ---
-layout: test
+layout: default
 ---
 
-<h2 style="padding-left: 410px;"> Lab 1 Group Outline | V1 </h2>
-
-<p>&nbsp;</p>
-<div style="text-align: center"><iframe src="https://docs.google.com/document/d/e/2PACX-1vSHYY7Epa-cbxZa8htIqMGAHWpyD4xwov8sX59kDnhmywoI5m7rJ79aDftqQ8OvmQ/pub?embedded=true" frameborder="0" width="810" height="650" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+[test](./test.html).
