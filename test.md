@@ -1,5 +1,5 @@
 ---
-layout: labs
+layout: test
 ---
 
 <h2 style="padding-left: 410px;"> Lab 1 Group Outline | V1 </h2>
