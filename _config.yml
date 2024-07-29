@@ -4,4 +4,4 @@ plugins:
 
 github:
   home: ./
-  test: ./test.html
+  test_url: ./test.html
