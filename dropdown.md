@@ -1,7 +1,7 @@
----
+<!-- ---
 layout: dropdown
 parent: test
 ---
 
-[dropdown](./dropdown.html).
+[dropdown](./dropdown.html). -->
 
